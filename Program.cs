@@ -25,6 +25,22 @@ class PosisiKarakterGame
         currentState = State.Berdiri;
         Console.WriteLine("Posisi awal: Berdiri");
     }
+
+    public void UbahPosisi(ConsoleKey key)
+    {
+        if (key == ConsoleKey.S)
+        {
+            Console.WriteLine("Tombol arah bawah ditekan");
+            currentState = State.Jongkok;
+            Console.WriteLine($"Posisi saat ini: {currentState}");
+        }
+        else if (key == ConsoleKey.W)
+        {
+            Console.WriteLine("Tombol arah atas ditekan");
+            currentState = State.Terbang;
+            Console.WriteLine($"Posisi saat ini: {currentState}");
+        }
+    }
 }
 
 
@@ -36,5 +52,18 @@ class Program
         Console.WriteLine("Masukkan nama buah: ");
         string buah = Console.ReadLine();
         Console.WriteLine("Kode Buah: " + KodeBuah.GetKodeBuah(buah));
+
+        // State-based construction
+        PosisiKarakterGame karakter = new PosisiKarakterGame();
+        Console.WriteLine("Tekan W atau S untuk mengubah posisi (tekan Escape untuk keluar)");
+
+        while (true)
+        {
+            ConsoleKeyInfo keyInfo = Console.ReadKey(true);
+            if (keyInfo.Key == ConsoleKey.Escape)
+                break;
+
+            karakter.UbahPosisi(keyInfo.Key);
+        }
     }
 }
