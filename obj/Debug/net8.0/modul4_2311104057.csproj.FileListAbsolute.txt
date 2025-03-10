@@ -1,0 +1,15 @@
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\bin\Debug\net8.0\modul4_2311104057.exe
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\bin\Debug\net8.0\modul4_2311104057.deps.json
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\bin\Debug\net8.0\modul4_2311104057.runtimeconfig.json
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\bin\Debug\net8.0\modul4_2311104057.dll
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\bin\Debug\net8.0\modul4_2311104057.pdb
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\modul4_2311104057.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\modul4_2311104057.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\modul4_2311104057.AssemblyInfo.cs
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\modul4_2311104057.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\modul4_2311104057.sourcelink.json
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\modul4_2311104057.dll
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\refint\modul4_2311104057.dll
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\modul4_2311104057.pdb
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\modul4_2311104057.genruntimeconfig.cache
+C:\Users\ASUS TUF\source\repos\modul4_2311104057\modul4_2311104057\obj\Debug\net8.0\ref\modul4_2311104057.dll
